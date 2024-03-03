@@ -15,3 +15,6 @@ If you see a numbered list on the terminal, enter the number of the functionalit
 8. Enter your choice:
   
  Follow the instructions you get on the terminal.
+
+ NOTE:
+ i) When a customer/employee rents a car, the due date is set to 30 days from the day on which the car was rented(this is the current date. If it is rented on 3rd march then the due date will be 2nd april). If you want to test the fine showing functionality, manually edit the cars.txt file and change the due date. You can change it to feburary(this will ensure that the fine is >0).
