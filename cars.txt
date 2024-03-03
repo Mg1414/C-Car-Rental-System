@@ -1,0 +1,36 @@
+car1,minordamages,3500,Available,None
+car2,minordamages,3500,Available,None
+car5,excellent,7000,Rented by the user ID: 87654,2024-04-02
+car6,fair,2500,Available,None
+car7,excellent,4600,Available,None
+car8,fair,4600,Available,None
+car9,good,2700,Available,None
+car10,majordamages,3400,Available,None
+car11,excellent,5500,Available,None
+car13,excellent,2300,Available,None
+car15,excellent,4200,Rented by the user ID: 54321,2024-04-02
+car16,fair,4400,Rented by the user ID: 98765,2024-04-02
+car17,majordamages,3400,Available,None
+car18,excellent,5700,Rented by the user ID: 56789,2024-03-01
+car19,excellent,3500,Available,None
+car20,minordamages,3500,Available,None
+car21,excellent,7000,Rented by the user ID: 87654,2024-02-02
+car22,fair,2500,Available,None
+car23,excellent,4600,Available,None
+car24,fair,4600,Available,None
+car25,good,2700,Available,None
+car26,majordamages,3400,Available,None
+car27,excellent,5500,Available,None
+car28,excellent,2300,Available,None
+car29,excellent,4200,Rented by the user ID: 54321,2024-02-02
+car30,fair,4400,Rented by the user ID: 98765,2024-02-02
+car31,majordamages,3400,Available,None
+car32,excellent,5700,Rented by the user ID: 56789,2024-02-14
+car33,excellent,3500,Available,None
+car34,minordamages,3500,Available,None
+car35,excellent,7000,Rented by the user ID: 87654,2024-02-02
+car36,fair,2500,Rented by the user ID: 220562,2024-04-02
+car37,excellent,4600,Available,None
+car38,fair,4600,Available,None
+car39,good,2700,Available,None
+car40,majordamages,3400,Available,None

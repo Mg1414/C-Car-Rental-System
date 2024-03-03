@@ -1,0 +1,8 @@
+Customer1,12345,c1,C
+Jane Smith,23456,js,C+
+Michael Johnson,34567,mj,C+
+Emily Williams,45678,ew,C+
+Daniel Brown,56789,db,C+
+Customer6,12346,c6,C
+Customer7,13456,c7,C
+shivam,220562,shivam,B
